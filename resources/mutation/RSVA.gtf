@@ -1,0 +1,36 @@
+RSVA	RefSeq	transcript	1	44	.	+	.	transcript_id "rna-Rsvgs01"; gene_id "gene-Rsvgs01"
+RSVA	RefSeq	exon	1	44	.	+	.	transcript_id "rna-Rsvgs01"; gene_id "gene-Rsvgs01";
+RSVA	RefSeq	transcript	45	576	.	+	.	transcript_id "rna-Rsvgp01"; gene_id "gene-Rsvgp01"; gene_name "NS1"
+RSVA	RefSeq	exon	45	576	.	+	.	transcript_id "rna-Rsvgp01"; gene_id "gene-Rsvgp01"; gene_name "NS1";
+RSVA	RefSeq	CDS	99	518	.	+	0	transcript_id "rna-Rsvgp01"; gene_id "gene-Rsvgp01"; gene_name "NS1";
+RSVA	RefSeq	transcript	596	1097	.	+	.	transcript_id "rna-Rsvgp02"; gene_id "gene-Rsvgp02"; gene_name "NS2"
+RSVA	RefSeq	exon	596	1097	.	+	.	transcript_id "rna-Rsvgp02"; gene_id "gene-Rsvgp02"; gene_name "NS2";
+RSVA	RefSeq	CDS	628	1002	.	+	0	transcript_id "rna-Rsvgp02"; gene_id "gene-Rsvgp02"; gene_name "NS2";
+RSVA	RefSeq	transcript	1125	2329	.	+	.	transcript_id "rna-Rsvgp03"; gene_id "gene-Rsvgp03"; gene_name "N"
+RSVA	RefSeq	exon	1125	2329	.	+	.	transcript_id "rna-Rsvgp03"; gene_id "gene-Rsvgp03"; gene_name "N";
+RSVA	RefSeq	CDS	1140	2315	.	+	0	transcript_id "rna-Rsvgp03"; gene_id "gene-Rsvgp03"; gene_name "N";
+RSVA	RefSeq	transcript	2331	3220	.	+	.	transcript_id "rna-Rsvgp04"; gene_id "gene-Rsvgp04"; gene_name "P"
+RSVA	RefSeq	exon	2331	3220	.	+	.	transcript_id "rna-Rsvgp04"; gene_id "gene-Rsvgp04"; gene_name "P";
+RSVA	RefSeq	CDS	2348	3073	.	+	0	transcript_id "rna-Rsvgp04"; gene_id "gene-Rsvgp04"; gene_name "P";
+RSVA	RefSeq	transcript	3224	4180	.	+	.	transcript_id "rna-Rsvgp05"; gene_id "gene-Rsvgp05"; gene_name "M"
+RSVA	RefSeq	exon	3224	4180	.	+	.	transcript_id "rna-Rsvgp05"; gene_id "gene-Rsvgp05"; gene_name "M";
+RSVA	RefSeq	CDS	3233	4003	.	+	0	transcript_id "rna-Rsvgp05"; gene_id "gene-Rsvgp05"; gene_name "M";
+RSVA	RefSeq	transcript	4190	4599	.	+	.	transcript_id "rna-Rsvgp06"; gene_id "gene-Rsvgp06"; gene_name "SH"
+RSVA	RefSeq	exon	4190	4599	.	+	.	transcript_id "rna-Rsvgp06"; gene_id "gene-Rsvgp06"; gene_name "SH";
+RSVA	RefSeq	CDS	4274	4468	.	+	0	transcript_id "rna-Rsvgp06"; gene_id "gene-Rsvgp06"; gene_name "SH";
+RSVA	RefSeq	transcript	4644	5565	.	+	.	transcript_id "rna-Rsvgp07"; gene_id "gene-Rsvgp07"; gene_name "G"
+RSVA	RefSeq	exon	4644	5565	.	+	.	transcript_id "rna-Rsvgp07"; gene_id "gene-Rsvgp07"; gene_name "G";
+RSVA	RefSeq	CDS	4659	5555	.	+	0	transcript_id "rna-Rsvgp07"; gene_id "gene-Rsvgp07"; gene_name "G";
+RSVA	RefSeq	transcript	5619	7521	.	+	.	transcript_id "rna-Rsvgp08"; gene_id "gene-Rsvgp08"; gene_name "F"
+RSVA	RefSeq	exon	5619	7521	.	+	.	transcript_id "rna-Rsvgp08"; gene_id "gene-Rsvgp08"; gene_name "F";
+RSVA	RefSeq	CDS	5632	7356	.	+	0	transcript_id "rna-Rsvgp08"; gene_id "gene-Rsvgp08"; gene_name "F";
+RSVA	RefSeq	transcript	7567	8527	.	+	.	transcript_id "rna-Rsvgp09"; gene_id "gene-Rsvgp09"; gene_name "M2"
+RSVA	RefSeq	exon	7567	8527	.	+	.	transcript_id "rna-Rsvgp09"; gene_id "gene-Rsvgp09"; gene_name "M2";
+RSVA	RefSeq	CDS	7576	8160	.	+	0	transcript_id "rna-Rsvgp09"; gene_id "gene-Rsvgp09"; gene_name "M2";
+RSVA	RefSeq	transcript	8460	8527	.	+	.	transcript_id "rna-Rsvgp09-2"; gene_id "gene-Rsvgp09"; gene_name "M2"
+RSVA	RefSeq	exon	8460	8527	.	+	.	transcript_id "rna-Rsvgp09-2"; gene_id "gene-Rsvgp09"; gene_name "M2";
+RSVA	RefSeq	transcript	8460	15037	.	+	.	transcript_id "rna-Rsvgp10"; gene_id "gene-Rsvgp10"; gene_name "L"
+RSVA	RefSeq	exon	8460	15037	.	+	.	transcript_id "rna-Rsvgp10"; gene_id "gene-Rsvgp10"; gene_name "L";
+RSVA	RefSeq	CDS	8468	14965	.	+	0	transcript_id "rna-Rsvgp10"; gene_id "gene-Rsvgp10"; gene_name "L";
+RSVA	RefSeq	transcript	15038	15191	.	+	.	transcript_id "rna-Rsvgs02"; gene_id "gene-Rsvgs02"
+RSVA	RefSeq	exon	15038	15191	.	+	.	transcript_id "rna-Rsvgs02"; gene_id "gene-Rsvgs02";

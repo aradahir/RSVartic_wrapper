@@ -1,0 +1,22 @@
+RSVB	Genbank	transcript	99	518	.	+	.	transcript_id "cds-AAR14259.1"; gene_id "cds-AAR14259.1"
+RSVB	Genbank	CDS	74	493	.	+	0	transcript_id "cds-AAR14259.1"; gene_id "cds-AAR14259.1"; gene_name "NS1"; 
+RSVB	Genbank	transcript	626	1000	.	+	.	transcript_id "cds-AAR14260.1"; gene_id "cds-AAR14260.1"
+RSVB	Genbank	CDS	601	975	.	+	0	transcript_id "cds-AAR14260.1"; gene_id "cds-AAR14260.1"; gene_name "NS2"; 
+RSVB	Genbank	transcript	1138	2313	.	+	.	transcript_id "cds-AAR14261.1"; gene_id "cds-AAR14261.1"
+RSVB	Genbank	CDS	1114	2289	.	+	0	transcript_id "cds-AAR14261.1"; gene_id "cds-AAR14261.1"; gene_name "N"; 
+RSVB	Genbank	transcript	2346	3071	.	+	.	transcript_id "cds-AAR14262.1"; gene_id "cds-AAR14262.1"
+RSVB	Genbank	CDS	2322	3047	.	+	0	transcript_id "cds-AAR14262.1"; gene_id "cds-AAR14262.1"; gene_name "P"; 
+RSVB	Genbank	transcript	3261	4031	.	+	.	transcript_id "cds-AAR14263.1"; gene_id "cds-AAR14263.1"
+RSVB	Genbank	CDS	3237	4007	.	+	0	transcript_id "cds-AAR14263.1"; gene_id "cds-AAR14263.1"; gene_name "M"; 
+RSVB	Genbank	transcript	4301	4498	.	+	.	transcript_id "cds-AAR14264.1"; gene_id "cds-AAR14264.1"
+RSVB	Genbank	CDS	4276	4473	.	+	0	transcript_id "cds-AAR14264.1"; gene_id "cds-AAR14264.1"; gene_name "SH"; 
+RSVB	Genbank	transcript	4688	5566	.	+	.	transcript_id "cds-AAR14265.1"; gene_id "cds-AAR14265.1"
+RSVB	Genbank	CDS	4662	5594	.	+	0	transcript_id "cds-AAR14265.1"; gene_id "cds-AAR14265.1";  gene_name "G"; 
+RSVB	Genbank	transcript	5664	7388	.	+	.	transcript_id "cds-AAR14266.1"; gene_id "cds-AAR14266.1"
+RSVB	Genbank	CDS	5692	7416	.	+	0	transcript_id "cds-AAR14266.1"; gene_id "cds-AAR14266.1";  gene_name "F"; 
+RSVB	Genbank	transcript	7617	8204	.	+	.	transcript_id "cds-AAR14267.1"; gene_id "cds-AAR14267.1"
+RSVB	Genbank	CDS	7642	8229	.	+	0	transcript_id "cds-AAR14267.1"; gene_id "cds-AAR14267.1";  gene_name "M1"; 
+RSVB	Genbank	transcript	8161	8442	.	+	.	transcript_id "cds-AAR14268.1"; gene_id "cds-AAR14268.1"
+RSVB	Genbank	CDS	8195	8467	.	+	0	transcript_id "cds-AAR14268.1"; gene_id "cds-AAR14268.1";  gene_name "M2"; 
+RSVB	Genbank	transcript	8508	15008	.	+	.	transcript_id "cds-AAR14269.1"; gene_id "cds-AAR14269.1"
+RSVB	Genbank	CDS	8533	15033	.	+	0	transcript_id "cds-AAR14269.1"; gene_id "cds-AAR14269.1";  gene_name "L"; 
